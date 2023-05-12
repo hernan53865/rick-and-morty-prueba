@@ -1,0 +1,14 @@
+.morty {
+    width: 100%;
+  }
+  .marty {
+    height: 100vh;
+  }  
+
+  body::-webkit-scrollbar{
+    width: 15px;
+  }
+
+  body::-webkit-scrollbar-thumb{
+    background: white
+  }
